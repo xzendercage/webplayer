@@ -5,13 +5,13 @@
     <img src="./public/headphones.svg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">MyPlayer2000</h3>
+  <h3 align="center">Webplayer</h3>
 
   <p align="center">
    My version of LofiCafe
     <br />
     <br />
-    <a href="//">View Demo</a>
+    <a href="https://4amlofi.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/xzendercage/webplayer/issues">Report Bug</a>
     ·
