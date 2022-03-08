@@ -47,7 +47,7 @@ export default {
       isLoop: false,
       isPlay: false,
       videos: [
-        "https://www.youtube.com/watch?v=M8AVyj8PmBE&list=RDAMVMM8AVyj8PmBE",
+        "https://www.youtube.com/watch?v=KRA26LhuTP4&list=RDKRA26LhuTP4&start_radio=1",
       ],
       videos2: [],
     };
