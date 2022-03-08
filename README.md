@@ -19,7 +19,6 @@
   </p>
 </p>
 <br>
-[Netlify Status](https://api.netlify.com/api/v1/badges/6a916e99-c2f9-4f56-9671-2c590d43c3d6/deploy-status)](https://app.netlify.com/sites/4amlofi/deploys)
 
 <!-- TABLE OF CONTENTS -->
 
