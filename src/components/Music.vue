@@ -41,13 +41,13 @@
 export default {
   data() {
     return {
-      title: "Maroon 5 - Memories",
+      title: "YOUR LOVE LOFI",
       isRandom: false,
       index: 0,
       isLoop: false,
       isPlay: false,
       videos: [
-        "https://www.youtube.com/watch?v=M8AVyj8PmBE",
+        "https://music.youtube.com/watch?v=M8AVyj8PmBE&list=RDAMVMM8AVyj8PmBE",
       ],
       videos2: [],
     };
